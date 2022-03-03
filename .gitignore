@@ -9,3 +9,4 @@ yarn.lock
 coverage/
 coverage.json
 .solcover.js
+package-lock.json
